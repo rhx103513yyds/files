@@ -1,0 +1,115 @@
+18:04:45:943(0000001)	[info ]	GeeXLab Player v0.59.0.0 (Apr 26 2024@13:39:31)
+18:04:45:943(0000002)	[info ]	Scriptable Proto-Engine (Lua, Python, GLSL, OpenGL, Vulkan)
+18:04:45:943(0000003)	[info ]	(C)2009-2024 Geeks3D
+18:04:45:943(0000004)	[info ]	Homepage: https://geeks3d.com/geexlab/
+18:04:45:943(0000005)	[info ]	Discord server: https://www.geeks3d.com/discord/
+18:04:45:943(0000006)	[info ]	GeeXLab Player is starting up...
+18:04:45:943(0000007)	[info ]	[stb] STB image loader. Supported formats: *.JPEG, *.PNG, *.TGA, *.BMP, *.PSD, *.GIF, *.HDR, *.PIC
+18:04:45:943(0000008)	[info ]	[tinyexr] EXR image loader.
+18:04:45:943(0000009)	[info ]	[lib3ds] Lib3ds loader (core plugin).
+18:04:45:943(0000010)	[info ]	[ObjLoaderV1] OBJ 3D loader (core plugin).
+18:04:45:943(0000011)	[info ]	[ObjLoaderV2] OBJ loader based on Tiny OBJ Loader (core plugin).
+18:04:45:943(0000012)	[info ]	[STL] STL (StereoLithography) 3D loader (core plugin).
+18:04:45:943(0000013)	[info ]	[glTF] glTF 3D loader (core plugin).
+18:04:45:943(0000014)	[info ]	[SQLite3] SQLite3 version 3.45.3
+18:04:45:943(0000015)	[info ]	GraphX Core 0.54.0.0 (codename: Gauss) initialization ok.
+18:04:45:943(0000016)	[info ]	GeeXLab home directory: E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\
+18:04:45:943(0000017)	[info ]	Windows version: Windows 11 build 22631
+18:04:45:943(0000018)	[info ]	SW platform type: Windows 64-bit
+18:04:46:087(0000019)	[info ]	Plugins search path: E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/physx5/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/physx4/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/physx3/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/ffmpeg/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/assimp/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/imagemagick/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/fmod/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/python/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/flex/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/freeimage/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/openvr/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/leap/;E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\plugins/anttweakbar/;
+18:04:46:088(0000020)	[info ]	Current user: HUAWEI
+18:04:46:088(0000021)	[info ]	Python 3.7 home: [C:/Users/HUAWEI/AppData/Local/Programs/Python/Python37/]
+18:04:46:088(0000022)	[info ]	Python 3.8 home: [C:/Users/HUAWEI/AppData/Local/Programs/Python/Python38/]
+18:04:46:088(0000023)	[info ]	Python 3.9 home: [C:/Users/HUAWEI/AppData/Local/Programs/Python/Python39/]
+18:04:46:088(0000024)	[info ]	Python 3.10 home: [C:/Users/HUAWEI/AppData/Local/Programs/Python/Python310/]
+18:04:46:088(0000025)	[info ]	Python 3.11 home: [C:/Users/HUAWEI/AppData/Local/Programs/Python/Python311/]
+18:04:46:088(0000026)	[info ]	Python 3.12 home: [C:/Users/HUAWEI/AppData/Local/Programs/Python/Python312/]
+18:04:46:088(0000027)	[info ]	App directory: E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\
+18:04:46:088(0000028)	[info ]	Scripting libs directory: E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\libs\
+18:04:46:091(0000029)	[info ]	================================================================================
+18:04:46:093(0000030)	[info ]	monitor DPI: [144, 144] - DPI scale: 1.5 - new window size: 810 x 1035
+18:04:46:153(0000031)	[info ]	Geeks3D FurMark - demo started with an OpenGL 4.6 context.
+18:04:46:153(0000032)	[info ]	Quick OpenGL information (use /glinfo for more limits):
+18:04:46:153(0000033)	[info ]	GL_RENDERER: Intel(R) Iris(R) Xe Graphics
+18:04:46:153(0000034)	[info ]	GL_VENDOR: Intel
+18:04:46:153(0000035)	[info ]	GL_VERSION: 4.6.0 - Build 27.20.100.9565
+18:04:46:153(0000036)	[info ]	GL_SHADING_LANGUAGE_VERSION: 4.60 - Build 27.20.100.9565
+18:04:46:153(0000037)	[info ]	OpenGL version detected: 4.6
+18:04:46:153(0000038)	[info ]	OpenGL extensions: 263
+18:04:46:153(0000039)	[info ]	OpenGL hardware limits:
+18:04:46:153(0000040)	[info ]	  GL_MAX_VERTEX_ATTRIBS: 16
+18:04:46:153(0000041)	[info ]	  GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+18:04:46:153(0000042)	[info ]	  GL_MAX_FRAGMENT_UNIFORM_COMPONENTS: 4096
+18:04:46:153(0000043)	[info ]	  GL_MAX_TEXTURE_SIZE: 16384
+18:04:46:153(0000044)	[info ]	  GL_MAX_VIEWPORT_DIMS: 16384 16384
+18:04:46:153(0000045)	[info ]	  GL_MAX_TEXTURE_IMAGE_UNITS: 32
+18:04:46:153(0000046)	[info ]	  GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 192
+18:04:46:153(0000047)	[info ]	Render window (Geeks3D FurMark) initialized (renderer type: OpenGL)
+18:04:46:206(0000048)	[info ]	[Lua] Lua version: Lua 5.4.6
+18:04:46:208(0000049)	[info ]	[Lua] LuaFileSystem initialized ok.
+18:04:46:208(0000050)	[info ]	[Lua] UTF8 initialized ok.
+18:04:46:210(0000051)	[info ]	[Lua] LuaSocket core initialized ok.
+18:04:46:210(0000052)	[info ]	[Lua] Mime core initialized ok.
+18:04:46:210(0000053)	[info ]	[Lua] LuaSQL SQLite3 driver initialized ok.
+18:04:46:211(0000054)	[info ]	[Lua] LuaGL initialized ok.
+18:04:46:211(0000055)	[info ]	[Lua] initialization ok.
+18:04:46:219(0000056)	[info ]	Scene compilation: SUCCESS.
+18:04:46:223(0000057)	[info ]	screen size detected: 2160 x 1440
+18:04:46:223(0000058)	[info ]	FurMark 2.3.0.0 is starting up...
+18:04:46:224(0000059)	[info ]	Checking for new version...
+18:04:47:003(0000060)	[info ]	Your version is up to date
+18:04:47:162(0000061)	[info ]	[Vulkan2] Vulkan renderer plugin (Windows, Linux)
+18:04:47:312(0000062)	[info ]	[Vulkan2] instance version: 4198400 (Vulkan 1.1)
+18:04:47:339(0000063)	[info ]	[Vulkan2] VK_KHR_device_group_creation supported but vkEnumeratePhysicalDeviceGroupsKHR not exposed.
+18:04:47:339(0000064)	[info ]	[Vulkan2] # Vulkan devices: 2
+18:04:47:340(0000065)	[info ]	[Vulkan2] [ GPU 0 ]--------------------------------------
+18:04:47:340(0000066)	[info ]	[Vulkan2] - physical device pointer: 0x83315E60
+18:04:47:340(0000067)	[info ]	[Vulkan2] - GPU name: Intel(R) Iris(R) Xe Graphics
+18:04:47:340(0000068)	[info ]	[Vulkan2] - DeviceID: 8086-9A49
+18:04:47:340(0000069)	[info ]	[Vulkan2] - Raw driver version: 1647965
+18:04:47:340(0000070)	[info ]	[Vulkan2] - Vulkan API version: 1.2.172
+18:04:47:340(0000071)	[info ]	[Vulkan2] - Device type: VK_PHYSICAL_DEVICE_TYPE_INTEGRATED_GPU
+18:04:47:341(0000072)	[info ]	[Vulkan2] [ GPU 1 ]--------------------------------------
+18:04:47:341(0000073)	[info ]	[Vulkan2] - physical device pointer: 0x83315E80
+18:04:47:341(0000074)	[info ]	[Vulkan2] - GPU name: Intel(R) Iris(R) Xe Graphics
+18:04:47:341(0000075)	[info ]	[Vulkan2] - DeviceID: 8086-9A49
+18:04:47:341(0000076)	[info ]	[Vulkan2] - Raw driver version: 1647965
+18:04:47:341(0000077)	[info ]	[Vulkan2] - Vulkan API version: 1.2.172
+18:04:47:341(0000078)	[info ]	[Vulkan2] - Device type: VK_PHYSICAL_DEVICE_TYPE_INTEGRATED_GPU
+18:04:47:342(0000079)	[info ]	[Vulkan2] --- initializing GPU 0...
+18:04:47:342(0000080)	[info ]	[Vulkan2] VK_EXT_full_screen_exclusive is exposed.
+18:04:47:342(0000081)	[info ]	[Vulkan2] VK_KHR_get_surface_capabilities2 is not exposed (this extension is required by VK_EXT_full_screen_exclusive)
+18:04:47:364(0000082)	[info ]	[Vulkan2] - VK_KHR_driver_properties:
+18:04:47:364(0000083)	[info ]	[Vulkan2]   - driver name                 : Intel Corporation
+18:04:47:364(0000084)	[info ]	[Vulkan2]   - driver ID                   : VK_DRIVER_ID_INTEL_PROPRIETARY_WINDOWS_KHR (5)
+18:04:47:364(0000085)	[info ]	[Vulkan2]   - driver conformance version  : 1.2.2.3:
+18:04:47:364(0000086)	[info ]	[Vulkan2]   - driver info                 : Intel driver
+18:04:47:364(0000087)	[info ]	[Vulkan2] --- GPU 0 initialized ok
+18:04:47:364(0000088)	[info ]	[Vulkan2] --- initializing GPU 1...
+18:04:47:364(0000089)	[info ]	[Vulkan2] VK_EXT_full_screen_exclusive is exposed.
+18:04:47:364(0000090)	[info ]	[Vulkan2] VK_KHR_get_surface_capabilities2 is not exposed (this extension is required by VK_EXT_full_screen_exclusive)
+18:04:47:376(0000091)	[info ]	[Vulkan2] - VK_KHR_driver_properties:
+18:04:47:377(0000092)	[info ]	[Vulkan2]   - driver name                 : Intel Corporation
+18:04:47:377(0000093)	[info ]	[Vulkan2]   - driver ID                   : VK_DRIVER_ID_INTEL_PROPRIETARY_WINDOWS_KHR (5)
+18:04:47:377(0000094)	[info ]	[Vulkan2]   - driver conformance version  : 1.2.2.3:
+18:04:47:377(0000095)	[info ]	[Vulkan2]   - driver info                 : Intel driver
+18:04:47:377(0000096)	[info ]	[Vulkan2] --- GPU 1 initialized ok
+18:04:47:436(0000097)	[info ]	[GpuMonitor] Operating system detected: Windows 11 build 22631
+18:04:47:452(0000098)	[info ]	[GpuMonitor] Num GPUs found: 2
+18:04:47:452(0000099)	[info ]	[GpuMonitor] GPU0 - Intel(R) Iris(R) Xe Graphics
+18:04:47:452(0000100)	[info ]	[GpuMonitor] GPU0 - PCI codes: 0x8086-0x9A49
+18:04:47:452(0000101)	[info ]	[GpuMonitor] GPU0 - BIOS: Intel Video BIOS
+18:04:47:452(0000102)	[info ]	[GpuMonitor] GPU0 - driver: Intel 27.20.100.9565 (4-29-2021) GL:C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd
+18:04:47:452(0000103)	[info ]	[GpuMonitor] GPU1 - Virtual Display Device
+18:04:47:452(0000104)	[info ]	[GpuMonitor] GPU1 - PCI codes: 0xEDB5-0xB5E2
+18:04:47:452(0000105)	[info ]	[GpuMonitor] GPU1 - driver: 1.0.0.9 (11-18-2022)
+18:04:47:455(0000106)	[info ]	- GPU 0: Intel(R) Iris(R) Xe Graphics
+18:04:47:455(0000107)	[info ]	- GPU 1: Virtual Display Device
+18:04:47:455(0000108)	[info ]	scripts INIT execution: OK.
+18:04:50:634(0000109)	[info ]	furmark.exe --demo furmark-gl --gpu-index 0 --width 1920 --height 1080 --furmark-bfc 0 --furmark-bkg-img-id 0
+18:07:46:103(0000110)	[info ]	Scene statistics:
+18:07:46:103(0000111)	[info ]	- 781 frames rendered during 178.646 seconds
+18:07:46:103(0000112)	[info ]	- average framerate: 4.4 FPS
+18:07:46:327(0000113)	[info ]	Stopping GeeXLab Player...
+18:07:46:363(0000114)	[info ]	GraphX Core stopped ok.
+18:07:46:363(0000115)	[info ]	Exit from GeeXLab Player.

@@ -1,0 +1,53 @@
+(18:04:50:763)	FurMark 2.3.0.0 (build: May  5 2024@09:31:44)
+(18:04:50:763)	(c)2007-2024 Geeks3D
+(18:04:50:763)	homepage: https://www.geeks3d.com/furmark/
+(18:04:50:763)	discord server : https://geeks3d.com/discord/
+(18:04:50:763)	FurMark (GeeXLab engine) initialization...
+(18:04:50:763)	command line: furmark.exe --demo furmark-gl --gpu-index 0 --width 1920 --height 1080 --furmark-bfc 0 --furmark-bkg-img-id 0 
+(18:04:50:763)	FurMark home directory: E:\FurMark\Geeks3D\FurMark2_x64\FurMark2_x64\
+(18:04:50:763)	[stb] STB image loader. Supported formats: *.JPEG, *.PNG, *.TGA, *.BMP, *.PSD, *.GIF, *.HDR, *.PIC
+(18:04:50:763)	[tinyexr] EXR image loader.
+(18:04:50:763)	[lib3ds] Lib3ds loader (core plugin).
+(18:04:50:763)	[ObjLoaderV1] OBJ 3D loader (core plugin).
+(18:04:50:763)	[ObjLoaderV2] OBJ loader based on Tiny OBJ Loader (core plugin).
+(18:04:50:763)	[STL] STL (StereoLithography) 3D loader (core plugin).
+(18:04:50:763)	[glTF] glTF 3D loader (core plugin).
+(18:04:50:763)	[SQLite3] SQLite3 version 3.45.3
+(18:04:50:763)	GraphX Core 0.54.0.0 (codename: Gauss) initialization ok.
+(18:04:50:763)	Windows version: Windows 11 build 22631
+(18:04:50:763)	HW platform type: PC
+(18:04:50:763)	SW platform type: Windows 64-bit
+(18:04:50:766)	[GpuMonitor] Operating system detected: Windows 11 build 22631
+(18:04:50:772)	[GpuMonitor] Num GPUs found: 2
+(18:04:50:772)	[GpuMonitor] GPU0 - Intel(R) Iris(R) Xe Graphics
+(18:04:50:772)	[GpuMonitor] GPU0 - PCI codes: 0x8086-0x9A49
+(18:04:50:772)	[GpuMonitor] GPU0 - BIOS: Intel Video BIOS
+(18:04:50:772)	[GpuMonitor] GPU0 - driver: Intel 27.20.100.9565 (4-29-2021) GL:C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd
+(18:04:50:772)	[GpuMonitor] GPU1 - Virtual Display Device
+(18:04:50:772)	[GpuMonitor] GPU1 - PCI codes: 0xEDB5-0xB5E2
+(18:04:50:772)	[GpuMonitor] GPU1 - driver: 1.0.0.9 (11-18-2022)
+(18:04:50:772)	FurMark (GeeXLab engine) started ok.
+(18:04:50:772)	system DPI: 96
+(18:04:50:784)	3D window size: 1942 x 1136
+(18:04:50:837)	current DPI: xdpi(144), ydpi(144) - DPI scale: 1.5
+(18:04:50:887)	GL_RENDERER: Intel(R) Iris(R) Xe Graphics
+(18:04:50:887)	GL_VENDOR: Intel
+(18:04:50:887)	GL_VERSION: 4.6.0 - Build 27.20.100.9565
+(18:04:50:887)	GL_SHADING_LANGUAGE_VERSION: 4.60 - Build 27.20.100.9565
+(18:04:50:887)	OpenGL version detected: 4.6
+(18:04:50:887)	OpenGL extensions: 263
+(18:04:50:998)	[ArtifactScanner] Artifact scanner for GPU stability checking.
+(18:04:51:077)	furmark::gl::bkg1::gl32
+(18:05:19:279)	[ Demo Quick Stats ]
+(18:05:19:306)	- demo                 : FurMark (GL) (built-in: YES)
+(18:05:19:306)	- renderer             : Intel(R) Iris(R) Xe Graphics
+(18:05:19:306)	- 3D API               : OpenGL 4.6.0 - Build 27.20.100.9565
+(18:05:19:306)	- resolution           : 1920x1080
+(18:05:19:307)	- frames               : 432
+(18:05:19:307)	- duration             : 27093 ms
+(18:05:19:307)	- FPS (min/avg/max)    : 15 / 16 / 17
+(18:05:19:307)	- GPU 0: Intel(R) Iris(R) Xe Graphics [8086-9A49]
+(18:05:19:307)	- GPU 1: Virtual Display Device [EDB5-B5E2]
+(18:05:20:085)	FurMark (GeeXLab engine) is shutting down...
+(18:05:20:112)	GraphX Core stopped ok.
+(18:05:20:112)	FurMark (GeeXLab engine) shutdown ok.
